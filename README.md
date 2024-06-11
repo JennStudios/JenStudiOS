@@ -206,8 +206,8 @@ https://pypi.org/project/pip/
 [GTK 4] - quickly and effeciently develop widgets and windows
 	
 	(Note: Openbox kind of meh and I want to make my own wm 
-   one day. You should remove the gtk4 developer packages if 
-   you don't explicitly want to work with gtk4.)
+   	one day. You should remove the gtk4 developer packages if 
+   	you don't explicitly want to work with gtk4.)
 	
 
 [EasyTether] - Just a personal thing
