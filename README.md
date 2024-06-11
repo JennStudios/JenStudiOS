@@ -200,8 +200,7 @@ https://pypi.org/project/pip/
 	(Note: If you don't intend to use python you can remove this
 	and pygame, pyglet3d, and pyopengl. Which maybe free up around
 	800mb, you can purge these on the install disc too, to skip
-	installing them altogether. Do not remove python3 itself though
-  as linux relies on it for tons of stuff)
+	installing them altogether. Do not remove python3 itself)
 	
 	
 [GTK 4] - quickly and effeciently develop widgets and windows
