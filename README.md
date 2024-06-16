@@ -217,6 +217,15 @@ https://pypi.org/project/pip/
 [LogiOps] - Logitech driver, manipulate logitech mmo mice like mine
 https://github.com/PixlOne/logiops
 
+[IMPORTANT]
+I use nvidi-550 from the ubuntu repository. If you run into problems with
+this simply select advanced options->recovery mode->enable networking
+then enter Root Shell option and google on your phone your GPU and google
+nvidia linux drivers, follow the prompts putting in your gpu, nividia
+will give you a list of drivers to install
+
+in the root shell you may also be able to type 
+
 
 ========================================================================
 
