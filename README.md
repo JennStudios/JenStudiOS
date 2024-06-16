@@ -215,6 +215,8 @@ https://pypi.org/project/pip/
 [LogiOps] - Logitech driver, manipulate logitech mmo mice like mine
 https://github.com/PixlOne/logiops
 
+[Bodhi Theme Pack] - Bodhi themes, personally I use Arc-Dark and recommend it. 
+
 [IMPORTANT]
 I use nvidi-driver-535 from the ubuntu repository. If you run into problems with
 this simply select advanced options->recovery mode->enable networking
