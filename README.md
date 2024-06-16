@@ -192,11 +192,6 @@ https://zynthian.org/
 [Audacity] -- Sound engineering software
 https://www.audacityteam.org/
 
-
-[LXDE] - Lightweight Desktop Environment made with gtk3
-http://www.lxde.org/
-
-
 [PIP] - Python apt/dpkg kind of thing for fetching python modules
 https://pypi.org/project/pip/
 	
