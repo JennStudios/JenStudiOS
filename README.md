@@ -217,6 +217,10 @@ https://github.com/PixlOne/logiops
 
 [Bodhi Theme Pack] - Bodhi themes, personally I use Arc-Dark and recommend it. 
 
+[OBS Studio] - recording software
+
+[touch pad indicator] - for disabling the touch pad cause it's annoying to me 
+
 [IMPORTANT]
 I use nvidi-driver-535 from the ubuntu repository. If you run into problems with
 this simply select advanced options->recovery mode->enable networking
