@@ -221,13 +221,16 @@ https://pypi.org/project/pip/
 https://github.com/PixlOne/logiops
 
 [IMPORTANT]
-I use nvidi-550 from the ubuntu repository. If you run into problems with
+I use nvidi-driver-535 from the ubuntu repository. If you run into problems with
 this simply select advanced options->recovery mode->enable networking
 then enter Root Shell option and google on your phone your GPU and google
 nvidia linux drivers, follow the prompts putting in your gpu, nividia
-will give you a list of drivers to install
+will give you a list of drivers to install. Certain internal versions
+will use driver-550. If you want to know which you have simply check the 
+driver utils. 
 
-in the root shell you may also be able to type 
+you may also be able to perform these actions in the live  cd pre-install,
+though it may be buggy. 
 
 
 ========================================================================
