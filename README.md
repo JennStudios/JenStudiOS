@@ -9,24 +9,27 @@ Hello
 
 Welcome to JenStudiOS, the official development environment of 
 indie game dev Jen Studios.  This isn't so much a novel OS as bodhi with
-lxde and all the tools I use to develop games. 
+customizations and all the tools I use to develop games. 
 
 Please give the Bodhi devs love they work very hard to make an amazing
 desktop environment and apps and repository.
 
 This started when I became estranged from Lubuntu after they got rid of 
 lxde which, in my opinion, is what made lubuntu great. So now I am
-done with Lubuntu. I never thought I'd make a custom ubuntu (I was happy
-with lxdelubuntu for a long time) but I guess this is what I have to do)
+done with Lubuntu. 
 
 =======================================================================
 
-JenStudiOS has lxde and moksha. Partly because removing moksha broke 
-the install building it with cubic. 
+JenStudiOS used to mainline lxde but I've moved to exclusively the native
+moksha environment. A wise decision imho because it's lighter, faster,
+more modern, and has continued development. In fact me and my friend
+have even started to work a little bit on the fringes of it doing
+technical writing and theme dev.
 
-Both are extremely light weight running about 250 mb of ram at idle 
+Moksha is light weight running about 250 mb of ram at idle 
 before installing random stuff, both quite good in vm (though you
-should only test games in vm, not develop them, due to input lag)
+should only test games in vm, not develop them, due to input lag and 
+driver limitations)
 
 I've also opted to keep the bodhi terminal, Terminology, however both
 are included if you prefer the more simplistic lxterminal.
@@ -234,14 +237,6 @@ a framework available for java then look into libgdx
 
 I've also included a script/plugin that will add godot-script to geany's
 syntax/lexical/semantic highlight and suggestions. 
-
-I've also included the docker script 
-
-I highly recommend running the following if you want a pure lxde
-experience. Ignore if you don't mind gnome elements or want to use
-gdm
-
-	apt purge gdm3 gnome-shell
 	
 ========================================================================
 
