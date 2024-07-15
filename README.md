@@ -8,31 +8,28 @@ Hello
 
 
 Welcome to JenStudiOS, the official development environment of 
-indie game dev Jen Studios.  This isn't so much a novel OS as bodhi with
+indie game dev Jen Studios.  This isn't so much a novel OS as one(s) with
 customizations and all the tools I use to develop games. 
 
 Please give the Bodhi devs love they work very hard to make an amazing
 desktop environment and apps and repository.
 
-This started when I became estranged from Lubuntu after they got rid of 
-lxde which, in my opinion, is what made lubuntu great. So now I am
-done with Lubuntu. 
+The current version uses Lubuntu as the base due to kernel version
+incompatibility of Bodhi 7.0. We'll likely move back to bodhi when 8.0
+releases--assuming it is stable and modules functional.
 
 =======================================================================
 
-JenStudiOS used to mainline lxde but I've moved to exclusively the native
+JenStudiOS used to mainline lxde, then moved to exclusively the native
 moksha environment. A wise decision imho because it's lighter, faster,
-more modern, and has continued development. In fact me and my friend
-have even started to work a little bit on the fringes of it doing
-technical writing and theme dev.
+more modern, and has continued development. Due to my hardware I develop
+on being too new, I was forced back to Lubuntu while I wait for an updated
+kernel release of Bodhi. Though at this rate I may just stick with Lubuntu
 
 Moksha is light weight running about 250 mb of ram at idle 
 before installing random stuff, both quite good in vm (though you
 should only test games in vm, not develop them, due to input lag and 
 driver limitations)
-
-I've also opted to keep the bodhi terminal, Terminology, however both
-are included if you prefer the more simplistic lxterminal.
 
 In later versions, after I have the time, I'll move to buiding
 up my own version from a headless ubuntu server sort of start. I started
@@ -215,7 +212,7 @@ https://pypi.org/project/pip/
 [LogiOps] - Logitech driver, manipulate logitech mmo mice like mine
 https://github.com/PixlOne/logiops
 
-[Bodhi Theme Pack] - Bodhi themes, personally I use Arc-Dark and recommend it. 
+[Deprecated[Bodhi Theme Pack]] - Bodhi themes, personally I use Arc-Dark and recommend it. 
 
 [OBS Studio] - recording software
 
